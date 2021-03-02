@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{13}
+\begin{thebibliography}{19}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -36,6 +36,24 @@
 \providecommand\bibinfo[2]{#2}
 \providecommand\natexlab[1]{#1}
 \providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Almeida, Freire, and Monteiro}{Almeida
+  et~al\mbox{.}}{2021}]%
+        {AlmeidaFM21}
+\bibfield{author}{\bibinfo{person}{B. Almeida}, \bibinfo{person}{N. Freire},
+  {and} \bibinfo{person}{D. Monteiro}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{The development of the {ROSSIO} Thesaurus:
+  Supporting Content Discovery and Management in a Research infrastructure}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 17th Italian Research Conference
+  on Digital Libraries}} \emph{(\bibinfo{series}{{CEUR} Workshop Proceedings},
+  Vol.~\bibinfo{volume}{2816})}. \bibinfo{publisher}{CEUR-WS.org},
+  \bibinfo{pages}{138--146}.
+\newblock
+\urldef\tempurl%
+\url{http://ceur-ws.org/Vol-2816/short1.pdf}
+\showURL{%
+\tempurl}
+
 
 \bibitem[\protect\citeauthoryear{Avanzi, Coniglio, Cisotto, Giordani, and
   Ferro}{Avanzi et~al\mbox{.}}{2021}]%
@@ -91,6 +109,48 @@
 \newblock
 
 
+\bibitem[\protect\citeauthoryear{Bernasconi, Boccuzzi, Catarci, Ceriani,
+  Ghignoli, Leotta, Mecella, Monte, Sietis, Veneruso, and Ziran}{Bernasconi
+  et~al\mbox{.}}{2021a}]%
+        {BernasconiBCCGL21}
+\bibfield{author}{\bibinfo{person}{E. Bernasconi}, \bibinfo{person}{M.
+  Boccuzzi}, \bibinfo{person}{T. Catarci}, \bibinfo{person}{M. Ceriani},
+  \bibinfo{person}{A. Ghignoli}, \bibinfo{person}{F. Leotta},
+  \bibinfo{person}{M. Mecella}, \bibinfo{person}{A. Monte}, \bibinfo{person}{N.
+  Sietis}, \bibinfo{person}{S. Veneruso}, {and} \bibinfo{person}{Z. Ziran}.}
+  \bibinfo{year}{2021}\natexlab{a}.
+\newblock \showarticletitle{Exploring the Historical Context of Graphic
+  Symbols: the {NOTAE} Knowledge Graph and its Visual Interface}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 17th Italian Research Conference
+  on Digital Libraries}} \emph{(\bibinfo{series}{{CEUR} Workshop Proceedings},
+  Vol.~\bibinfo{volume}{2816})}. \bibinfo{publisher}{CEUR-WS.org},
+  \bibinfo{pages}{147--154}.
+\newblock
+\urldef\tempurl%
+\url{http://ceur-ws.org/Vol-2816/short2.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Bernasconi, Ceriani, and Mecella}{Bernasconi
+  et~al\mbox{.}}{2021b}]%
+        {BernasconiCM21}
+\bibfield{author}{\bibinfo{person}{E. Bernasconi}, \bibinfo{person}{M.
+  Ceriani}, {and} \bibinfo{person}{M. Mecella}.}
+  \bibinfo{year}{2021}\natexlab{b}.
+\newblock \showarticletitle{Exploring a Text Corpus via a Knowledge Graph}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 17th Italian Research Conference
+  on Digital Libraries, Padua, Italy (virtual event due to the Covid-19
+  pandemic), February 18-19, 2021}} \emph{(\bibinfo{series}{{CEUR} Workshop
+  Proceedings}, Vol.~\bibinfo{volume}{2816})}.
+  \bibinfo{publisher}{CEUR-WS.org}, \bibinfo{pages}{91--102}.
+\newblock
+\urldef\tempurl%
+\url{http://ceur-ws.org/Vol-2816/paper8.pdf}
+\showURL{%
+\tempurl}
+
+
 \bibitem[\protect\citeauthoryear{Biasini, Carmignani, Ferro, Filianos, Maistro,
   and Nunzio}{Biasini et~al\mbox{.}}{2021}]%
         {biasini2021fullbrain}
@@ -110,6 +170,23 @@
 \tempurl}
 
 
+\bibitem[\protect\citeauthoryear{Dosso and Silvello}{Dosso and
+  Silvello}{2021}]%
+        {DossoS21}
+\bibfield{author}{\bibinfo{person}{D. Dosso} {and} \bibinfo{person}{G.
+  Silvello}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Data Credit Distribution through Lineage}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 17th Italian Research Conference
+  on Digital Libraries}} \emph{(\bibinfo{series}{{CEUR} Workshop Proceedings},
+  Vol.~\bibinfo{volume}{2816})}. \bibinfo{publisher}{CEUR-WS.org},
+  \bibinfo{pages}{155--161}.
+\newblock
+\urldef\tempurl%
+\url{http://ceur-ws.org/Vol-2816/short3.pdf}
+\showURL{%
+\tempurl}
+
+
 \bibitem[\protect\citeauthoryear{Fante and di~Nunzio}{Fante and
   di~Nunzio}{2021}]%
         {FanteN21}
@@ -124,6 +201,22 @@
 \newblock
 \urldef\tempurl%
 \url{http://ceur-ws.org/Vol-2816/paper5.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Ferilli}{Ferilli}{2021}]%
+        {Ferilli21}
+\bibfield{author}{\bibinfo{person}{S. Ferilli}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Toward Automatic Floor Plan Interpretation}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 17th Italian Research Conference
+  on Digital Libraries}} \emph{(\bibinfo{series}{{CEUR} Workshop Proceedings},
+  Vol.~\bibinfo{volume}{2816})}. \bibinfo{publisher}{CEUR-WS.org},
+  \bibinfo{pages}{13--24}.
+\newblock
+\urldef\tempurl%
+\url{http://ceur-ws.org/Vol-2816/paper2.pdf}
 \showURL{%
 \tempurl}
 
@@ -251,6 +344,22 @@
 \newblock
 \urldef\tempurl%
 \url{http://ceur-ws.org/Vol-2816/short6.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Svarre}{Svarre}{2021}]%
+        {Svarre21}
+\bibfield{author}{\bibinfo{person}{T. Svarre}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Labelling on Academic library Websites}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 17th Italian Research Conference
+  on Digital Libraries}} \emph{(\bibinfo{series}{{CEUR} Workshop Proceedings},
+  Vol.~\bibinfo{volume}{2816})}. \bibinfo{publisher}{CEUR-WS.org},
+  \bibinfo{pages}{186--193}.
+\newblock
+\urldef\tempurl%
+\url{http://ceur-ws.org/Vol-2816/short7.pdf}
 \showURL{%
 \tempurl}
 

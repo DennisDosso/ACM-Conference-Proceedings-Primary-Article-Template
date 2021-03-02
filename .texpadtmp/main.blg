@@ -15,10 +15,15 @@ Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=20001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty address in AlmeidaFM21
 Warning--empty address in AvanziCCG021
 Warning--empty address in BaglioniMMABB21
+Warning--empty address in BernasconiBCCGL21
+Warning--empty address in BernasconiCM21
 Warning--empty address in biasini2021fullbrain
+Warning--empty address in DossoS21
 Warning--empty address in FanteN21
+Warning--empty address in Ferilli21
 Warning--empty address in Ferrante0P21
 Warning--empty address in GargiuloGTZ21
 Warning--empty address in HeilNH21
@@ -26,46 +31,47 @@ Warning--empty address in IrreraS21
 Warning--empty address in LancioniMP0T21
 Warning--empty address in MarinaiPRS21
 Warning--empty address in SpadiSD21
+Warning--empty address in Svarre21
 Warning--empty address in ZanichelliETTC21
-You've used 13 entries,
+You've used 19 entries,
             5959 wiz_defined-function locations,
-            1412 strings with 17577 characters,
-and the built_in function-call counts, 18132 in all, are:
-= -- 1932
-> -- 769
+            1449 strings with 18808 characters,
+and the built_in function-call counts, 26091 in all, are:
+= -- 2771
+> -- 1057
 < -- 0
-+ -- 259
-- -- 252
-* -- 1455
-:= -- 1861
-add.period$ -- 65
-call.type$ -- 13
-change.case$ -- 110
-chr.to.int$ -- 13
-cite$ -- 25
-duplicate$ -- 1621
-empty$ -- 1136
-format.name$ -- 304
-if$ -- 4181
-int.to.chr$ -- 2
++ -- 356
+- -- 352
+* -- 2054
+:= -- 2659
+add.period$ -- 95
+call.type$ -- 19
+change.case$ -- 155
+chr.to.int$ -- 18
+cite$ -- 37
+duplicate$ -- 2379
+empty$ -- 1667
+format.name$ -- 419
+if$ -- 6023
+int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 64
-newline$ -- 180
-num.names$ -- 104
-pop$ -- 630
+missing$ -- 94
+newline$ -- 246
+num.names$ -- 151
+pop$ -- 921
 preamble$ -- 1
-purify$ -- 227
+purify$ -- 324
 quote$ -- 0
-skip$ -- 598
+skip$ -- 877
 stack$ -- 0
-substring$ -- 1343
-swap$ -- 179
+substring$ -- 1974
+swap$ -- 265
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 376
-warning$ -- 12
-while$ -- 99
+type$ -- 550
+warning$ -- 18
+while$ -- 153
 width$ -- 0
-write$ -- 320
+write$ -- 452
 (There was 1 error message)

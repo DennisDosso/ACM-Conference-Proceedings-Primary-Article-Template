@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.23)  2 MAR 2021 12:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.23)  2 MAR 2021 15:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -978,44 +978,52 @@ Underfull \vbox (badness 5331) has occurred while \output is active []
  Comment 'acks' writing to comment.cut. Straight input of comment.cut. (/Users/dennisdosso/Dropbox/paper di Dennis/IN CORSO/IRCDL_Overview/.texpadtmp/comment.cut) (/Users/dennisdosso/Dropbox/paper di Dennis/IN CORSO/IRCDL_Overview/.texpadtmp/main.bbl
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 7.0pt on input line 48.
-LaTeX Info: Redefining \tempurl on input line 72.
-LaTeX Info: Redefining \tempurl on input line 108.
-LaTeX Info: Redefining \tempurl on input line 126.
-LaTeX Info: Redefining \tempurl on input line 144.
-LaTeX Info: Redefining \tempurl on input line 163.
-LaTeX Info: Redefining \tempurl on input line 181.
-LaTeX Info: Redefining \tempurl on input line 199.
-LaTeX Info: Redefining \tempurl on input line 217.
-LaTeX Info: Redefining \tempurl on input line 236.
-LaTeX Info: Redefining \tempurl on input line 253.
-LaTeX Info: Redefining \tempurl on input line 272.
+LaTeX Info: Redefining \tempurl on input line 71.
+LaTeX Info: Redefining \tempurl on input line 90.
+LaTeX Info: Redefining \tempurl on input line 130.
+LaTeX Info: Redefining \tempurl on input line 149.
+LaTeX Info: Redefining \tempurl on input line 168.
+LaTeX Info: Redefining \tempurl on input line 185.
+LaTeX Info: Redefining \tempurl on input line 203.
+LaTeX Info: Redefining \tempurl on input line 219.
+LaTeX Info: Redefining \tempurl on input line 237.
+LaTeX Info: Redefining \tempurl on input line 256.
+LaTeX Info: Redefining \tempurl on input line 274.
+LaTeX Info: Redefining \tempurl on input line 292.
+LaTeX Info: Redefining \tempurl on input line 310.
+LaTeX Info: Redefining \tempurl on input line 329.
+LaTeX Info: Redefining \tempurl on input line 346.
+LaTeX Info: Redefining \tempurl on input line 362.
+LaTeX Info: Redefining \tempurl on input line 381.
 )
-Overfull \vbox (1.602pt too high) has occurred while \output is active []
+
+Package balance Warning: You have called \balance in second column
+(balance)                Columns might not be balanced.
 
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 216.
- [2.2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 216.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 216.
+(Font)              scaled to size 7.0pt on input line 223.
+[2.2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 223.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 223.
  (/Users/dennisdosso/Dropbox/paper di Dennis/IN CORSO/IRCDL_Overview/.texpadtmp/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 216.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 216.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 223.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 223.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
- 18590 strings out of 492616
- 282074 string characters out of 6129480
- 430143 words of memory out of 5000000
- 21752 multiletter control sequences out of 15000+600000
- 141469 words of font info for 224 fonts, out of 8000000 for 9000
+ 18632 strings out of 492616
+ 282954 string characters out of 6129480
+ 422552 words of memory out of 5000000
+ 21770 multiletter control sequences out of 15000+600000
+ 143107 words of font info for 236 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  60i,11n,94p,833b,441s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinBiolinumTI.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb>
-Output written on "/Users/dennisdosso/Dropbox/paper di Dennis/IN CORSO/IRCDL_Overview/.texpadtmp/main.pdf" (2 pages, 380088 bytes).
+Output written on "/Users/dennisdosso/Dropbox/paper di Dennis/IN CORSO/IRCDL_Overview/.texpadtmp/main.pdf" (2 pages, 384089 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
- 121 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
+ 167 PDF objects out of 1000 (max. 8388607)
+ 145 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
  41529 words of extra memory for PDF output out of 42996 (max. 10000000)
 
