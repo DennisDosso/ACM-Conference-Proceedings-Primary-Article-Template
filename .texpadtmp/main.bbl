@@ -1,0 +1,277 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{13}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Avanzi, Coniglio, Cisotto, Giordani, and
+  Ferro}{Avanzi et~al\mbox{.}}{2021}]%
+        {AvanziCCG021}
+\bibfield{author}{\bibinfo{person}{M. Avanzi}, \bibinfo{person}{R. Coniglio},
+  \bibinfo{person}{G. Cisotto}, \bibinfo{person}{M. Giordani}, {and}
+  \bibinfo{person}{N. Ferro}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{NoBis: {A} Crowd Monitoring Service Against
+  {COVID-19}}. In \bibinfo{booktitle}{\emph{Proceedings of the 17th Italian
+  Research Conference on Digital Libraries}} \emph{(\bibinfo{series}{{CEUR}
+  Workshop Proceedings}, Vol.~\bibinfo{volume}{2816})}.
+  \bibinfo{publisher}{CEUR-WS.org}, \bibinfo{pages}{126--137}.
+\newblock
+\urldef\tempurl%
+\url{http://ceur-ws.org/Vol-2816/paper11.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Baglioni, Mannocci, Manghi, Atzori, Bardi, and
+  Bruzzo}{Baglioni et~al\mbox{.}}{2021}]%
+        {BaglioniMMABB21}
+\bibfield{author}{\bibinfo{person}{M. Baglioni}, \bibinfo{person}{A. Mannocci},
+  \bibinfo{person}{P. Manghi}, \bibinfo{person}{C. Atzori}, \bibinfo{person}{A.
+  Bardi}, {and} \bibinfo{person}{S.~La Bruzzo}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Reflections on the Misuses of {ORCID} iDs}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 17th Italian Research Conference
+  on Digital Libraries}} \emph{(\bibinfo{series}{{CEUR} Workshop Proceedings},
+  Vol.~\bibinfo{volume}{2816})}. \bibinfo{publisher}{CEUR-WS.org},
+  \bibinfo{pages}{117--125}.
+\newblock
+\urldef\tempurl%
+\url{http://ceur-ws.org/Vol-2816/paper10.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Bechhofer, Buchan, De~Roure, Missier,
+  Ainsworth, Bhagat, Couch, Cruickshank, Delderfield, Dunlop,
+  et~al\mbox{.}}{Bechhofer et~al\mbox{.}}{2013}]%
+        {bechhofer2013linked}
+\bibfield{author}{\bibinfo{person}{S. Bechhofer}, \bibinfo{person}{I. Buchan},
+  \bibinfo{person}{D. De~Roure}, \bibinfo{person}{P. Missier},
+  \bibinfo{person}{J. Ainsworth}, \bibinfo{person}{J. Bhagat},
+  \bibinfo{person}{P. Couch}, \bibinfo{person}{D. Cruickshank},
+  \bibinfo{person}{M. Delderfield}, \bibinfo{person}{I. Dunlop},
+  {et~al\mbox{.}}} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Why linked data is not enough for scientists}.
+\newblock \bibinfo{journal}{\emph{Future Generation Computer Systems}}
+  \bibinfo{volume}{29}, \bibinfo{number}{2} (\bibinfo{year}{2013}),
+  \bibinfo{pages}{599--611}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Biasini, Carmignani, Ferro, Filianos, Maistro,
+  and Nunzio}{Biasini et~al\mbox{.}}{2021}]%
+        {biasini2021fullbrain}
+\bibfield{author}{\bibinfo{person}{M. Biasini}, \bibinfo{person}{V.
+  Carmignani}, \bibinfo{person}{N. Ferro}, \bibinfo{person}{P. Filianos},
+  \bibinfo{person}{M. Maistro}, {and} \bibinfo{person}{G.~M.~Di Nunzio}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{FullBrain: a Social E-learning Platform}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 17th Italian Research Conference
+  on Digital Libraries}} \emph{(\bibinfo{series}{{CEUR} Workshop Proceedings},
+  Vol.~\bibinfo{volume}{2816})}. \bibinfo{publisher}{CEUR-WS.org},
+  \bibinfo{pages}{25--41}.
+\newblock
+\urldef\tempurl%
+\url{http://ceur-ws.org/Vol-2816/paper3.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Fante and di~Nunzio}{Fante and
+  di~Nunzio}{2021}]%
+        {FanteN21}
+\bibfield{author}{\bibinfo{person}{D.~Del Fante} {and} \bibinfo{person}{G.~M.
+  di Nunzio}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{A Quantitative/Qualitative Approach to {OCR} Error
+  Detection and Correction in Old Newspapers for Corpus-assisted Discourse
+  Studies}. In \bibinfo{booktitle}{\emph{Proceedings of the 17th Italian
+  Research Conference on Digital Libraries}} \emph{(\bibinfo{series}{{CEUR}
+  Workshop Proceedings}, Vol.~\bibinfo{volume}{2816})}.
+  \bibinfo{publisher}{CEUR-WS.org}, \bibinfo{pages}{53--63}.
+\newblock
+\urldef\tempurl%
+\url{http://ceur-ws.org/Vol-2816/paper5.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Ferrante, Ferro, and Piazzon}{Ferrante
+  et~al\mbox{.}}{2021}]%
+        {Ferrante0P21}
+\bibfield{author}{\bibinfo{person}{M. Ferrante}, \bibinfo{person}{N. Ferro},
+  {and} \bibinfo{person}{L. Piazzon}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{s-AWARE: Using Crowd Judgements in Supervised
+  Measure-Based Methods for {IR} Evaluation}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 17th Italian Research Conference
+  on Digital Libraries}} \emph{(\bibinfo{series}{{CEUR} Workshop Proceedings},
+  Vol.~\bibinfo{volume}{2816})}. \bibinfo{publisher}{CEUR-WS.org},
+  \bibinfo{pages}{162--168}.
+\newblock
+\urldef\tempurl%
+\url{http://ceur-ws.org/Vol-2816/short4.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Gargiulo, Galimberti, Tammaro, and
+  Zane}{Gargiulo et~al\mbox{.}}{2021}]%
+        {GargiuloGTZ21}
+\bibfield{author}{\bibinfo{person}{P. Gargiulo}, \bibinfo{person}{P.
+  Galimberti}, \bibinfo{person}{A.~M. Tammaro}, {and} \bibinfo{person}{A.
+  Zane}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{{FAIR} {RDM} (Research Data Management): Italian
+  Initiatives Towards {EOSC} Implementation}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 17th Italian Research Conference
+  on Digital Libraries}} \emph{(\bibinfo{series}{{CEUR} Workshop Proceedings},
+  Vol.~\bibinfo{volume}{2816})}. \bibinfo{publisher}{CEUR-WS.org},
+  \bibinfo{pages}{42--52}.
+\newblock
+\urldef\tempurl%
+\url{http://ceur-ws.org/Vol-2816/paper4.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Heil, Nauwerck, and Hast}{Heil
+  et~al\mbox{.}}{2021}]%
+        {HeilNH21}
+\bibfield{author}{\bibinfo{person}{R. Heil}, \bibinfo{person}{M. Nauwerck},
+  {and} \bibinfo{person}{A. Hast}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Shorthand Secrets: Deciphering Astrid Lindgren's
+  Stenographed Drafts with {HTR} Methods}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 17th Italian Research Conference
+  on Digital Libraries}} \emph{(\bibinfo{series}{{CEUR} Workshop Proceedings},
+  Vol.~\bibinfo{volume}{2816})}. \bibinfo{publisher}{CEUR-WS.org},
+  \bibinfo{pages}{169--177}.
+\newblock
+\urldef\tempurl%
+\url{http://ceur-ws.org/Vol-2816/short5.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Irrera and Silvello}{Irrera and
+  Silvello}{2021}]%
+        {IrreraS21}
+\bibfield{author}{\bibinfo{person}{O. Irrera} {and} \bibinfo{person}{G.
+  Silvello}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Background Linking: Joining Entity Linking with
+  Learning to Rank Models}. In \bibinfo{booktitle}{\emph{Proceedings of the
+  17th Italian Research Conference on Digital Libraries}}
+  \emph{(\bibinfo{series}{{CEUR} Workshop Proceedings},
+  Vol.~\bibinfo{volume}{2816})}. \bibinfo{publisher}{CEUR-WS.org},
+  \bibinfo{pages}{64--77}.
+\newblock
+\urldef\tempurl%
+\url{http://ceur-ws.org/Vol-2816/paper6.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Lancioni, Mohamed, Portelli, Serra, and
+  Tasso}{Lancioni et~al\mbox{.}}{2021}]%
+        {LancioniMP0T21}
+\bibfield{author}{\bibinfo{person}{G. Lancioni}, \bibinfo{person}{S.~S.
+  Mohamed}, \bibinfo{person}{B. Portelli}, \bibinfo{person}{G. Serra}, {and}
+  \bibinfo{person}{C. Tasso}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Efficient Keyphrase Generation with GANs}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 17th Italian Research Conference
+  on Digital Libraries}} \emph{(\bibinfo{series}{{CEUR} Workshop Proceedings},
+  Vol.~\bibinfo{volume}{2816})}. \bibinfo{publisher}{CEUR-WS.org},
+  \bibinfo{pages}{1--12}.
+\newblock
+\urldef\tempurl%
+\url{http://ceur-ws.org/Vol-2816/paper1.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Marinai, Pomaro, Raffaelli, and
+  Scandiffio}{Marinai et~al\mbox{.}}{2021}]%
+        {MarinaiPRS21}
+\bibfield{author}{\bibinfo{person}{S. Marinai}, \bibinfo{person}{G. Pomaro},
+  \bibinfo{person}{C. Raffaelli}, {and} \bibinfo{person}{F. Scandiffio}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Location of Simple Graphemes in Mediaeval
+  Manuscripts based on Mask {R-CNN}}. In \bibinfo{booktitle}{\emph{Proceedings
+  of the 17th Italian Research Conference on Digital Libraries}}
+  \emph{(\bibinfo{series}{{CEUR} Workshop Proceedings},
+  Vol.~\bibinfo{volume}{2816})}. \bibinfo{publisher}{CEUR-WS.org},
+  \bibinfo{pages}{103--116}.
+\newblock
+\urldef\tempurl%
+\url{http://ceur-ws.org/Vol-2816/paper9.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Spadi, Spinelli, and Degl'Innocenti}{Spadi
+  et~al\mbox{.}}{2021}]%
+        {SpadiSD21}
+\bibfield{author}{\bibinfo{person}{A. Spadi}, \bibinfo{person}{F. Spinelli},
+  {and} \bibinfo{person}{E. Degl'Innocenti}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{{RESTORE:} Smart Access to Digital Heritage and
+  Memory}. In \bibinfo{booktitle}{\emph{Proceedings of the 17th Italian
+  Research Conference on Digital Libraries}} \emph{(\bibinfo{series}{{CEUR}
+  Workshop Proceedings}, Vol.~\bibinfo{volume}{2816})}.
+  \bibinfo{publisher}{CEUR-WS.org}, \bibinfo{pages}{178--185}.
+\newblock
+\urldef\tempurl%
+\url{http://ceur-ws.org/Vol-2816/short6.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Zanichelli, Encheva, Thabet, Tammaro, and
+  Conti}{Zanichelli et~al\mbox{.}}{2021}]%
+        {ZanichelliETTC21}
+\bibfield{author}{\bibinfo{person}{F. Zanichelli}, \bibinfo{person}{M.
+  Encheva}, \bibinfo{person}{B. Thabet}, \bibinfo{person}{A.~M. Tammaro}, {and}
+  \bibinfo{person}{G. Conti}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Serious Games for Information Literacy: Assessing
+  Learning in the {NAVIGATE} Project}. In \bibinfo{booktitle}{\emph{Proceedings
+  of the 17th Italian Research Conference on Digital Libraries}}
+  \emph{(\bibinfo{series}{{CEUR} Workshop Proceedings},
+  Vol.~\bibinfo{volume}{2816})}. \bibinfo{publisher}{CEUR-WS.org},
+  \bibinfo{pages}{78--90}.
+\newblock
+\urldef\tempurl%
+\url{http://ceur-ws.org/Vol-2816/paper7.pdf}
+\showURL{%
+\tempurl}
+
+
+\end{thebibliography}

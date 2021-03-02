@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /Users/dennisdosso/Dropbox/paper di Dennis/IN CORSO/IRCDL_Overview/.texpadtmp/main.aux
+The style file: ../ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: ../ircdl_bib.bib
+Repeated entry---line 36 of file ../ircdl_bib.bib
+ : @article{biasini2021fullbrain
+ :                              ,
+I'm skipping whatever remains of this entry
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty address in AvanziCCG021
+Warning--empty address in BaglioniMMABB21
+Warning--empty address in biasini2021fullbrain
+Warning--empty address in FanteN21
+Warning--empty address in Ferrante0P21
+Warning--empty address in GargiuloGTZ21
+Warning--empty address in HeilNH21
+Warning--empty address in IrreraS21
+Warning--empty address in LancioniMP0T21
+Warning--empty address in MarinaiPRS21
+Warning--empty address in SpadiSD21
+Warning--empty address in ZanichelliETTC21
+You've used 13 entries,
+            5959 wiz_defined-function locations,
+            1412 strings with 17577 characters,
+and the built_in function-call counts, 18132 in all, are:
+= -- 1932
+> -- 769
+< -- 0
++ -- 259
+- -- 252
+* -- 1455
+:= -- 1861
+add.period$ -- 65
+call.type$ -- 13
+change.case$ -- 110
+chr.to.int$ -- 13
+cite$ -- 25
+duplicate$ -- 1621
+empty$ -- 1136
+format.name$ -- 304
+if$ -- 4181
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 64
+newline$ -- 180
+num.names$ -- 104
+pop$ -- 630
+preamble$ -- 1
+purify$ -- 227
+quote$ -- 0
+skip$ -- 598
+stack$ -- 0
+substring$ -- 1343
+swap$ -- 179
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 376
+warning$ -- 12
+while$ -- 99
+width$ -- 0
+write$ -- 320
+(There was 1 error message)
