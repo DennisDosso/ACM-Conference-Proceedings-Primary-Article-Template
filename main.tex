@@ -22,12 +22,14 @@
 %% in the same archive or directory.)
 %%
 %% The first command in your LaTeX source must be the \documentclass command.
-\documentclass[sigconf, nonacm]{acmart}
-%\documentclass{sig-alternate-10pt}
 
-%\paperwidth=8.5in
-%\paperheight=11in
-%\usepackage[margin=1in]{geometry}
+%\documentclass{sig-alternate-10pt}
+\documentclass[sigconf, nonacm]{acmart}
+% \documentclass{sig-alternate-10pt}
+
+\paperwidth=8.5in
+\paperheight=11in
+\usepackage[margin=1in]{geometry}
 
 
 \AtBeginDocument{%
@@ -64,7 +66,7 @@
 %%
 %% The "title" command has an optional parameter,
 %% allowing the author to define a "short title" to be used in page headers.
-\title{Information and Research Science connecting to Digital and Library Science}
+\title{Information and Research Science connecting to \\ Digital and Library Science}
 \subtitle{Report on the 17th Italian Research Conference on Digital Libraries, IRCDL2021}
 
 %\alignauthor 
@@ -161,36 +163,44 @@
 \maketitle
 
 \section{Introduction}
-...
+Since 2005 the Italian Research Conference on Digital Libraries is a yearly date for researchers on Digital Libraries and related topics, organized by the Italian Research Community. Over the years IRCDL has become an important national forum focused on digital libraries and associated technical, practical, and social issues. IRCDL encompasses the many meanings of the term \emph{digital libraries}, including new forms of information institutions; operational information systems with all manner of digital content; new means of selecting, collecting, organizing, and distributing digital content; and theoretical models of information media, including document genres and electronic publishing. 
+
+Digital libraries may be viewed as a new form of information institution or as an extension of the services libraries currently provide. Representatives from academia, government, industry, research communities, research infrastructures, and others are usually invited to participate in this annual conference. The conference draws from a broad and multidisciplinary array of research areas including computer science, information science, librarianship, archival science and practice, museum studies and practice, technology, social sciences, cultural heritage and humanities, and scientific communities. 
+
+This year the focus was on bridging the wide field of Research and Information Science with the related field of Digital Libraries. Indeed, IRCDL historically approached on ``Digital libraries'' embracing the field at large also comprehending three key areas of interest that can be synthesized as \emph{scholarly communication} (e.g. research data, research software, digital experiments, digital libraries), \emph{e-science/computationally-intense research} (e.g. scientific workflows, Virtual Research Environments, reproducibility) and \emoh{library, archive and information science} (e.g. governance, policies, open access, open science).
+
+The conference has been organized in Padua (Italy) at the Department of Information Engineering of the University of Padua, but due to the COVID-19 emergency it has been completely online on 18 and 19 February 2021. The proceedings are published in the CEUR-WS  Vol-2816 \texttt{\url{http://ceur-ws.org/Vol-2816/}}. The papers are available in gold open access and all the videos of the presentations are available on YouTube and accessible via the conference Website: \texttt{\url{http://ircdl2021.dei.unipd.it/}}
 
 \section{Conference Contributions}
-\subsubsection*{Invited talk: The swings and roundabouts of a decade of fun and games with Research Objects} Prof. Carole Goble discussed her work on the concept of Research Objects\footnote{\url{http://researchobject.org/}}\cite{bechhofer2013linked} in her keynote\footnote{\url{https://www.slideshare.net/carolegoble/the-swings-and-roundabouts-of-a-decade-of-fun-and-games-with-research-objects-242974091}}. We are today transitioning toward the fourth paradigm of science, where the research outcomes are more than just publications and data, but also include software, models, workflows, SOPs, lab protocols, etc. All these products of science should be considered as first class citizens of scholarship, and be treated following the FAIR and Reproducible principles (FAIR+R). 
+All submitted contributions were peer-reviewed by three of the twenty-two members of the Program Committee, and eighteen were accepted, out of which seven were short papers. IRCDL comprised of one invited speaker and six sessions.
+
+\subsubsection*{Invited talk: The swings and roundabouts of a decade of fun and games with Research Objects} Prof. Carole Goble was the keynote speaker and discussed the concept of Research Objects\footnote{\url{http://researchobject.org/}}\cite{bechhofer2013linked} in her keynote\footnote{\url{https://www.slideshare.net/carolegoble/the-swings-and-roundabouts-of-a-decade-of-fun-and-games-with-research-objects-242974091}}. We are today transitioning toward the fourth paradigm of science, where the research outcomes are more than publications and data, but include software, models, workflows, SOPs, lab protocols, etc. All these products of science should be considered as first class citizens of scholarship, and be treated following the FAIR and Reproducible principles (FAIR+R). 
 The Research Object is a general framework, where research outcomes are related and bundled together. Their metadata describe their content and context, enriching them with additional information required to make them FAIR+R. These resources thus become shareable, citable, exchangeable, present versioning and snapshots, can be identified with tools such as PIDs and can be registered and deposited on their own in services like Zenodo, thus to be later unpackaged, accessed, activated, and reproduced if appropriate. 
 
 \subsubsection*{Data and Platforms}
-This section presented new platform to manage and share data, and shed light on important challenges faced by already existing and famous data infrastructures.
+This section presented new platform to manage and share data, and shed light on important challenges faced by already existing and widely-used data infrastructures.
 \citet{biasini2021fullbrain} presented FullBrain\footnote{\url{https://fullbrain.org/}}, a social e-learning platform where students can share and track their knowledge, helping each other in their learning process.
-\citet{GargiuloGTZ21} note that the FAIR RDM initiatives in Italy are still based on communities of practice, thus investigate the perception of some leader initiative with respect to good practices, challenges and the strategic vision. 
-\citet{BaglioniMMABB21} highlight the ``service misuses'' suffered by the ORCID infrastructure, that put in jeopardy its very mission.
+\citet{GargiuloGTZ21} noted that the FAIR RDM initiatives in Italy are still based on communities of practice, thus investigate the perception of some leader initiative with respect to good practices, challenges and the strategic vision. 
+\citet{BaglioniMMABB21} highlighted the ``service misuses'' suffered by the ORCID infrastructure, that put in jeopardy its very mission.
 
 \subsubsection*{Data Access and Monitoring}
-This section presented new systems and techniques based on data and how its correct use can have meaningful impacts on the everyday life of people in different aspects of their life, ranging fro, learning to security.
-\citet{ZanichelliETTC21} note that digital games can be a valuable tool for enhancing learning, and aims to understand how to improve the assessment of learning obtained through them.
+TThis section presented new systems and techniques based on data and how its correct use can have meaningful impacts on different aspects of people's everyday life, ranging from learning to security.
+\citet{ZanichelliETTC21} noted that digital games could be a valuable tool for enhancing learning and aims to understand how to improve the assessment of learning obtained through them.
 \citet{AvanziCCG021} presented \emph{NoBis}, a new service for monitoring the crowding of indoor spaces during the COVID-19 era.
-\citet{SpadiSD21} presented the first results of the project RESTORE, whose main goal is the recovery, integration, and accessibility of data and digital objects produced in the last twenty years by the partners of the project, thus to build a knowledge base on the history of the town of Prato.
+\citet{SpadiSD21} presented the first results of the project RESTORE, whose main goal is the recovery, integration, and accessibility of data and digital objects produced in the last twenty years by the partners of the project, thus building a knowledge base on the history of the town of Prato (Tuscany, Italy).
 
 
 \subsubsection*{Information and Knowledge}
-This section presents new applications and measures to obtain and evaluate information. 
-\citet{IrreraS21} addresses the problem of finding context information for news articles by extracting entities and relationships from documents that can provide context to documents, and use these entities to improve the effectiveness of ranking methods.
-\citet{LancioniMP0T21} use Generative Adversarial Networks to predict keyphrases, i.e. short text sequences that convey the main semantic meaning of a document. 
+This section presented new applications and measures to obtain and evaluate information. 
+\citet{IrreraS21} addressed the problem of finding context information for news articles by extracting entities and relationships from documents. The idea is to provide context to documents and improve learning to rank methods' effectiveness.
+\citet{LancioniMP0T21} use Generative Adversarial Networks to predict keyphrases, i.e., short text sequences that convey the central semantic meaning of a document. 
 \citet{Ferrante0P21} extend the AWARE measure with a set of supervised methods by using several TREC collections. 
 
 \subsubsection*{Character Recognition}
-This section presented new approaches to address problem connected to the automatic recognition of handwritten text to uncover texts still unreadable and provide new and meaningful tools to the experts.
-\citet{FanteN21} propose a mixed qualitative-quantitative approach to OCR error detection and correction to develop a methodology for compiling historical corpora. 
-\citet{HeilNH21} introduces Handwritten Text Recognition and Document Image Analysis approaches to address the challenges inherent to the original drafts of Astring Lindren, a Swedish author whose original drafts and manuscripts are edited in the Melin system of shorthands, as of today considered undecipherable. 
-\citet{MarinaiPRS21} describe a system for the location of simple graphemes in mediaeval manuscripts based on the Mask R-CNN convolutional neural network, a first approach to provide paleographers with a tool to speed up and refine the process of dating and determining the origin of manuscripts.
+This section presented new approaches to address problems connected to the automatic recognition of handwritten text to uncover texts still unreadable and provide new and meaningful tools to the experts.
+\citet{FanteN21} proposed a mixed qualitative-quantitative approach to OCR error detection and correction to develop a methodology for compiling historical corpora. 
+\citet{HeilNH21} introduced Handwritten Text Recognition and Document Image Analysis approaches to address the challenges inherent to the original drafts of Astring Lindren, a Swedish author whose original drafts and manuscripts are edited in the Melin system of shorthands, as of today considered undecipherable. 
+\citet{MarinaiPRS21} described a system for the location of simple graphemes in medieval manuscripts based on the Mask R-CNN convolutional neural network. A first approach to provide paleographers with a tool to speed up and refine dating and determining the origin of manuscripts.
 
 \subsubsection*{Text Analysis}
 In this section it is possible to find works that explore new potential applications connected to the analysis of documents, opening up new applications and research lines. 
@@ -205,8 +215,17 @@ The work proposed by \citet{BernasconiCM21} explores the idea of navigating the 
 \citet{AlmeidaFM21} are developing the ROSSIO Thesaurus, whose objective is to support content discovery and management in the ROSSIO Portuguese research infrastructure for arts and humanities, and describe its modeling process and integration in the infrasctcture, together with its publication as Linked Open Data.
 
 
-\section{Panel}
-...
+\section{Conclusion and Prospect}
+The world of DLs is going through profound transformations,
+and the research activities and results presented at
+IRCDL2021 gives a clear indication of how multifaceted Digital Library research is.
+
+A panel of experts was organized to continue the dialogue started in the last years to discuss DL's next future. The purpose is to enlarge DL's scope and open IRCDL to the challenges to come.
+
+The panel opened with an introduction by Gianmaria Silvello, who reported the panel's outcomes at IRCDL 2020 about the future of IRCDL. In 2020 the panel concluded that IRCDL has a central role for the Italian DL community and is a reference point for the young researchers, who, thanks to this conference, can move the first steps in research in a friendly and open environment. Nevertheless, there is the need to update the topics of the conference and to open-up to new emerging fields while maintaining the roots: i) IRCDL is an Italian conference with an international view; thus, it can be organized by international researchers and in English, but it has to maintain its national connotation; ii) cultural heritage, the humanities and library science are essential topics for IRCDL that have to keep a central role in the conference; iii) IRCDL maintains its focus on students and young researchers. 
+
+This year's panel discussed the challenges for the DL community in an evolving world and how IRCDL can adapt and be a catalyst for these changes. There were five panelists. The first panelist was Nicola Ferro (University of Padua), who discussed the role of Computer Science and Engineering research in DL. The second was Julian Bogdani (University of Rome - Sapienza), who reported his experience working in an interdisciplinary project involving archaeology and computer science. Stefania Gialdroni (University of Roma3) further discussed the intersections between cultural heritage and computing by reporting her experiences and future projects in the field of legal history. Luigi Siciliano (Free University of Bozen-Bolzano) dug on digital libraries' role in the ever-changing world of information access; he analyzed prominent vendors and software houses and how they impact the management and access to knowledge. Finally, Donato Malerba (University of Bari) presented the many contact points between Data Science and Digital Libraries, opening up to future collaborations between these two fields. 
+
 
 
 
